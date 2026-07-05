@@ -1,6 +1,6 @@
 <div align="center">
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00C2FF&background=1e222a&center=true&vCenter=true&width=480&height=70&lines=Ngoprek+Web+%26+APK;Reverse+Engineering;PAWN+Scripter;Software+Developer)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00C2FF&background=1e222a&center=true&vCenter=true&width=480&height=70&lines=ngoprek+web+%26+apk;reverse+engineering;pawn+scripting;developer+gabut)](https://git.io/typing-svg)
 
 <br/>
 
@@ -15,19 +15,19 @@
 
 ---
 
-### 💻 Lagi Nyantai Ngoding Web & Modding APK
+### 💻 Lagi nyantai, biasa ngoprek web sama android
 
-Halo! Gue **Zenn**, lagi asik nih ngembangin website (pake JavaScript, TypeScript, Node.js, Express) sama ngulik/reverse engineering aplikasi Android (APK). Suka banget nyari celah keamanan, modding, dan nulis skrip low-level kayak C/C++ sama PAWN.
+Halo, gue **Zenn**. Biasa sibuk ngoding web pake JS/TS & Node.js, atau lagi seru-serunya nge-reverse/modding APK Android. Kadang juga nulis skrip low-level pake C/C++ sama PAWN buat iseng.
 
-Mampir aja ke website gue buat liat-liat ide sama proyek iseng lainnya: [xgai.my.id](https://xgai.my.id).
+Mampir aja ke web gue buat liat-liat project gabut lainnya: [xgai.my.id](https://xgai.my.id).
 
 ---
 
-### ☕ Skill yang Udah Dicoba
+### ☕ Skill & tools yang biasa dipake
 
-Beberapa hal yang udah gue coba dan lumayan ngerti:
+Beberapa hal yang lumayan sering gue sentuh:
 
-*   **Bahasa Pemrograman**: JavaScript (ES6+), TypeScript, C/C++, dan PAWN (SA-MP scripting, dll)
-*   **Framework & Runtime**: Node.js & Express.js (buat bikin RESTful API yang enteng dan cepet)
-*   **Front-End**: HTML5 & CSS3 (styling dasar & modern)
-*   **Reverse Engineering**: APK Decompiling, patching, debugging, & analyzing security (pake JADX, Apktool, IDA Pro, dll)
+*   **Bahasa**: JavaScript (ES6+), TypeScript, C/C++, & PAWN
+*   **Back-End**: Node.js & Express (buat bikin rest api yang simpel)
+*   **Web Basics**: HTML5 & CSS3
+*   **Reverse Eng**: JADX, Apktool, IDA Pro, patching APK & security analysis
